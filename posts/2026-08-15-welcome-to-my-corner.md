@@ -2,7 +2,7 @@
 author: "null"
 title: "Welcome to My Corner"
 slug: "welcome-to-my-corner"
-cover: "https://github.com/Tshango/tdesigns-blog/blob/c9d17f716c1224700130c50a7fc7ae9240b130ba/Github%20repository%20images%20-%20Copy/Elf_Queen_Progress_Reel_smaller.jpg"
+cover: "https://i.postimg.cc/T34jcrP0/Elf-Queen-Progress-Reel-smaller.webp"
 date: "2026-08-15"
 excerpt: "We can always learn from our mistakes and vow to do better in our next attempt."
 ---
