@@ -4,7 +4,7 @@ title: "Doing 'Hanami' Without Realizing It"
 slug: "doing-hanami"
 cover: "https://i.postimg.cc/hvStmd8M/100-0652.jpg"
 date: "2026-08-25"
-excerpt: "My soul was heightened in that garden;"
+excerpt: "My soul was heightened in that garden ~ "
 ---
 
 I visited Japan years ago when I was first studying the language, and it was a magnificent opportunity. I met many amazing people on my trip who taught me amazing things about the world and myself. It's strange to think how much time has already passed since then.
