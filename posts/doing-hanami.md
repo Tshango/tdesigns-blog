@@ -1,7 +1,10 @@
 ---
+author: "Tasha S."
 title: "Doing 'Hanami' Without Realizing It"
 slug: "doing-hanami"
+cover: "https://dl.dropbox.com/scl/fi/rbk5rkiftubz46yxlgs5d/Elf_Queen_Progress_Reel_smaller.jpg?rlkey=7840lrsdr1s6xcyfn2g7jnbre&st=hlyugaaz&dl=0"
 date: "2026-08-25"
+excerpt: "My soul was heightened in that garden; looking at and taking photographs of those irises elevated me in ways I could not even begin to describe."
 ---
 
 I visited Japan years ago when I was first studying the language, and it was a magnificent opportunity. I met many amazing people on my trip who taught me amazing things about the world and myself. It's strange to think how much time has already passed since then.
