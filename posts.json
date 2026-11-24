@@ -1,6 +1,17 @@
 [
   {
     "author": "Tasha S.",
+    "title": "Uplifting the Artist Community",
+    "slug": "uplifting-the-artist-community",
+    "date": "2026-08-30",
+    "cover": "https://dl.dropbox.com/scl/fi/rbk5rkiftubz46yxlgs5d/Elf_Queen_Progress_Reel_smaller.jpg?rlkey=7840lrsdr1s6xcyfn2g7jnbre&st=hlyugaaz&dl=0",
+    "excerpt": "But balance can be found in the smallest crags.",
+    "path": "posts/uplifting-artist.md",
+    "sha": "659ea1e82a8deff6ee3ae1b3c2f2987ea3e0b4f4",
+    "updated_at": "2026-11-23T21:02:31-07:00"
+  },
+  {
+    "author": "Tasha S.",
     "title": "Doing 'Hanami' Without Realizing It",
     "slug": "doing-hanami",
     "date": "2026-08-25",
@@ -8,7 +19,7 @@
     "excerpt": "My soul was heightened in that garden; looking at and taking photographs of those irises elevated me in ways I could not even begin to describe.",
     "path": "posts/doing-hanami.md",
     "sha": "0a41515d66f7f4f5d900eba4f810a8cf0d75ba63",
-    "updated_at": "2026-11-23T20:54:41-07:00"
+    "updated_at": "2026-11-23T21:02:31-07:00"
   },
   {
     "author": "Tasha S.",
@@ -19,6 +30,6 @@
     "excerpt": "We can always learn from our mistakes and vow to do better in our next attempt.",
     "path": "posts/welcome-to-my-corner.md",
     "sha": "f3ac63f3ce591284cd56c16c323db9e3b45f1ec8",
-    "updated_at": "2026-11-23T20:54:41-07:00"
+    "updated_at": "2026-11-23T21:02:31-07:00"
   }
 ]
