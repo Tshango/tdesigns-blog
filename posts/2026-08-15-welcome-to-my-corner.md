@@ -4,8 +4,6 @@ title: "Welcome to My Corner"
 slug: "welcome-to-my-corner"
 cover: "https://i.postimg.cc/T34jcrP0/Elf-Queen-Progress-Reel-smaller.webp"
 date: "2026-08-15"
-tags:
-"intro"
 excerpt: "We can always learn from our mistakes and vow to do better in our next attempt."
 ---
 Welcome to my corner, where I share my work and embrace my creativity. I made this site as a testament to my creative diligence, as well as dedication to my clientele. It is here one can find and view my best works and contact me for commissions.
