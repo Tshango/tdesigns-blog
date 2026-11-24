@@ -1,12 +1,13 @@
 [
   {
+    "author": "Tasha S.",
     "title": "Welcome to My Corner",
     "slug": "welcome-to-my-corner",
     "date": "2026-08-15",
-    "cover": "https://dl.dropbox.com/scl/fi/gipr2uwva3k9yw6bsuhnc/Elf_Queen_Progress_Reel_smaller.jpg?rlkey=7m5m2udzg33lhv0us1cmua1sn&st=0b06j202&dl=0",
+    "cover": "https://dl.dropbox.com/scl/fi/rbk5rkiftubz46yxlgs5d/Elf_Queen_Progress_Reel_smaller.jpg?rlkey=7840lrsdr1s6xcyfn2g7jnbre&st=hatwoffu&dl=0",
     "excerpt": "We can always learn from our mistakes and vow to do better in our next attempt.",
     "path": "posts/welcome-to-my-corner.md",
-    "sha": "7e78ab6439c9186658283512fa53b7c73cd97d81",
-    "updated_at": "2026-11-23T19:45:40-07:00"
+    "sha": "a420489572e4f2d2cbb30e64dc27841c401e14e3",
+    "updated_at": "2026-11-23T20:04:18-07:00"
   }
 ]
