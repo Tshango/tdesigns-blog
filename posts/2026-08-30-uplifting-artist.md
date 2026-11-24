@@ -1,5 +1,4 @@
 ---
-author: "null"
 title: "Uplifting the Artist Community"
 slug: "uplifting-the-artist-community"
 cover: "https://i.postimg.cc/cL9h5pD0/IMG-0328.jpg"
