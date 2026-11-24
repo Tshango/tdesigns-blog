@@ -1,5 +1,5 @@
 ---
-author: "Tasha S."
+author: "null"
 title: "Welcome to My Corner"
 slug: "welcome-to-my-corner"
 cover: "https://i.postimg.cc/T34jcrP0/Elf-Queen-Progress-Reel-smaller.webp"
