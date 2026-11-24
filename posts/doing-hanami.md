@@ -1,5 +1,5 @@
 ---
-author: "Tasha S."
+author: "null"
 title: "Doing 'Hanami' Without Realizing It"
 slug: "doing-hanami"
 cover: "https://i.postimg.cc/hvStmd8M/100-0652.jpg"
