@@ -2,7 +2,7 @@
 author: "Tasha S."
 title: "Uplifting the Artist Community"
 slug: "uplifting-the-artist-community"
-cover: "https://dl.dropbox.com/scl/fi/rbk5rkiftubz46yxlgs5d/Elf_Queen_Progress_Reel_smaller.jpg?rlkey=7840lrsdr1s6xcyfn2g7jnbre&st=hlyugaaz&dl=0"
+cover: "https://dl.dropbox.com/scl/fi/2ahlg374wxoa3pedv60xv/IMG_0328.jpg?rlkey=e93701zalb83gxa20nkoeaw4s&st=ldusbl4w&dl=0"
 date: "2026-08-30"
 excerpt: "But balance can be found in the smallest crags."
 ---
