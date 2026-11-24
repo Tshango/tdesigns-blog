@@ -2,7 +2,7 @@
 author: "Tasha S."
 title: "Doing 'Hanami' Without Realizing It"
 slug: "doing-hanami"
-cover: "https://dl.dropbox.com/scl/fi/l22mnuenjzufe22rtc1x2/100_0652.JPG?rlkey=ekormgxch7dsblvxk2ghqe489&st=59n33vt4&dl=0"
+cover: "https://i.postimg.cc/hvStmd8M/100-0652.jpg"
 date: "2026-08-25"
 excerpt: "My soul was heightened in that garden;"
 ---
