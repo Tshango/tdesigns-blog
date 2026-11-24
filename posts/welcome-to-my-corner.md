@@ -3,7 +3,6 @@ author: "Tasha S."
 title: "Welcome to My Corner"
 slug: "welcome-to-my-corner"
 date: "2026-08-15"
-cover: "https://dl.dropbox.com/scl/fi/rbk5rkiftubz46yxlgs5d/Elf_Queen_Progress_Reel_smaller.jpg?rlkey=7840lrsdr1s6xcyfn2g7jnbre&st=hatwoffu&dl=0"
 excerpt: "We can always learn from our mistakes and vow to do better in our next attempt."
 ---
 Welcome to my corner, where I share my work and embrace my creativity. I made this site as a testament to my creative diligence, as well as dedication to my clientele. It is here one can find and view my best works and contact me for commissions.
