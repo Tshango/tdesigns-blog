@@ -2,7 +2,7 @@
 author: "Tasha S."
 title: "Welcome to My Corner"
 slug: "welcome-to-my-corner"
-cover: "https://dl.dropbox.com/scl/fi/rbk5rkiftubz46yxlgs5d/Elf_Queen_Progress_Reel_smaller.jpg?rlkey=7840lrsdr1s6xcyfn2g7jnbre&st=hlyugaaz&dl=0"
+cover: "https://i.postimg.cc/T34jcrP0/Elf-Queen-Progress-Reel-smaller.webp"
 date: "2026-08-15"
 excerpt: "We can always learn from our mistakes and vow to do better in our next attempt."
 ---
